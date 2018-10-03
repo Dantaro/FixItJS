@@ -23,7 +23,7 @@ It's simple!
 2. Call the fix method.
 
 ```javascript
-FitIt.fix();
+FixIt.fix();
 ```
 
 3. Watch as all your problems disappear!
